@@ -1,4 +1,4 @@
-# Hometask #2 (21/09)
+# Hometask #2 
 1. create repo hometask2 
 2. create VM using the same Vagrantfile as hometask1 
 3. create new git branch “doublevm” 
